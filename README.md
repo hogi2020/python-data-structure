@@ -3,3 +3,4 @@
 2. Array
 3. Stack
 4. Queue
+5. Hash
